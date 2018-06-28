@@ -1,0 +1,28 @@
+{
+    "name": "CanDo-Website-Design-Template",
+    "version": "1.0.0",
+    "description": "Starter Project",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Shayan V.Yari",
+    "license": "HMD",
+    "devDependencies": {
+        "browser-sync": "^2.24.5",
+        "del": "^1.2.0",
+        "gulp-autoprefixer": "5.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-imagemin": "^4.1.0",
+        "gulp-minify-css": "1.2.4",
+        "gulp-plumber": "^1.2.0",
+        "gulp-rename": "^1.3.0",
+        "gulp-sass": "^4.0.1",
+        "gulp-sourcemaps": "^2.6.4",
+        "gulp-uglify": "^3.0.0",
+        "scrollreveal": "^3.3.6"
+    },
+    "dependencies": {
+        "gulp": "^3.9.1"
+    }
+}
